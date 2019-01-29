@@ -13,4 +13,5 @@ repositories {
 dependencies {
     compile "args4j:args4j:2.33"
     compile "com.beust:jcommander:1.72"
+    compile 'com.github.pcj:google-options:1.0.0'
 }
